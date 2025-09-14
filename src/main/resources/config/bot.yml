@@ -1,0 +1,3 @@
+bot:
+  token: "BOT_TOKEN_HERE"
+  status: "I'm online!"

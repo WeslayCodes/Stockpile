@@ -1,0 +1,4 @@
+database:
+  url: "DATABASE_URL_HERE"
+  username: "DATABASE_USERNAME_HERE"
+  password: "DATABASE_PASSWORD_HERE"

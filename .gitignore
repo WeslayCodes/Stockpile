@@ -1,9 +1,10 @@
-.env
 .idea
 *.iml
 *.ipr
 *.iws
-/target
-/logs
 /dataSources
 /.ideaDataSources
+
+/target
+/logs
+/config

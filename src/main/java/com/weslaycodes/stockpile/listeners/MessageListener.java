@@ -14,4 +14,5 @@ public class MessageListener extends ListenerAdapter {
     public void onMessageReceived(@Nonnull MessageReceivedEvent event) {
         log.info("hi");
     }
+
 }
